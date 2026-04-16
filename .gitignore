@@ -6,5 +6,9 @@
 *.log
 logs/
 
+# Compiled files
+target/
+*.class
+
 # Docker overrides
 docker-compose.override.yml
