@@ -1,6 +1,6 @@
 # 🎯 API REST - Gestión Educativa (Backend)
 
-Esta es la implementación del **Backend** para la Prueba Técnica de Desarrollo Full Stack. Se trata de una **API RESTFull** construida sobre **Java 17** y **Spring Boot** para gestionar alumnos, materias y sus respectivas notas mediante un CRUD completo.
+Esta es la implementación del **Backend**. Se trata de una **API RESTFull** construida sobre **Java 17** y **Spring Boot** para gestionar alumnos, materias y sus respectivas notas mediante un CRUD completo.
 
 ---
 
