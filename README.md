@@ -25,7 +25,7 @@ Para ejecutar este proyecto garantizando su contención total, únicamente neces
 
 ---
 
-## 🚀 Guía de Ejecución Rápida (Máximo 10 Comandos)
+## 🚀 Guía de Ejecución Rápida
 
 El proyecto está diseñado para levantar toda la infraestructura (Base de Datos + API) de forma automática con Docker y variables de entorno. 
 
